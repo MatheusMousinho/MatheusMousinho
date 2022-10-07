@@ -1,7 +1,6 @@
 👋 Hi, I’m Matheus Mousinho <br>
-👀 I’m interested in Full Stack Developer
-🌱 I’m currently learning React
-💞️ I’m looking to collaborate on ...
+👀 I’m interested in Full Stack Developer <br>
+🌱 I’m currently learning React <br>
 📫 How to reach me https://www.linkedin.com/in/matheus-mousinho-2a397b22b/
 
 <!---
