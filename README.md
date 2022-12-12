@@ -1,8 +1,9 @@
 <h2> 👋 Hi, I’m Matheus Mousinho </h2> <br> 
-👀 I’m interested in Full Stack Developer <br>
+👀 I’m interested in Front End Developer <br>
 🌱 I’m currently learning React <br>
 📫 How to reach me https://www.linkedin.com/in/matheus-mousinho-2a397b22b/ <br><br>
 <div> 
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
