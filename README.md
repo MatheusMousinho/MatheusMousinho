@@ -1,6 +1,6 @@
 <h2> 👋 Hi, I’m Matheus Mousinho </h2> <br> 
 👀 I’m interested in FullStack Developer <br>
-🌱 I’m currently learning React <br>
+🌱 I’m currently learning React <br><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-mousinho-2a397b22b/)](https://www.linkedin.com/in/matheus-mousinho-2a397b22b/)
 <br><br>
