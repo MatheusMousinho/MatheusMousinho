@@ -1,9 +1,9 @@
 <h2> 👋 Hi, I’m Matheus Mousinho </h2> <br> 
 👀 I’m interested in FullStack Developer <br>
 🌱 I’m currently learning React <br>
-📫 How to reach me <img eight="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> <p>https://www.linkedin.com/in/matheus-mousinho-2a397b22b/</p> <br><br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-mousinho-2a397b22b/)](https://www.linkedin.com/in/matheus-mousinho-2a397b22b/)
+
 <div> 
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
