@@ -3,7 +3,7 @@
 🌱 I’m currently learning React <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-mousinho-2a397b22b/)](https://www.linkedin.com/in/matheus-mousinho-2a397b22b/)
-
+<br><br>
 <div> 
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
